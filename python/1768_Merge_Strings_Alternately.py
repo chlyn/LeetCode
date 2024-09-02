@@ -1,10 +1,3 @@
-#
-# @lc app=leetcode id=1768 lang=python
-#
-# [1768] Merge Strings Alternately
-#
-
-# @lc code=start
 class Solution(object):
     def mergeAlternately(self, word1, word2):
         """
@@ -26,6 +19,3 @@ class Solution(object):
             i += 1
 
         return ''.join(result)
-        
-# @lc code=end
-
