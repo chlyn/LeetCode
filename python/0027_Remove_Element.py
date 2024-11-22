@@ -1,3 +1,7 @@
+# Problem: 0027 - Remove Element
+# Source: https://leetcode.com/problems/remove-element/description/
+# Date: 11-21-2024
+
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         
